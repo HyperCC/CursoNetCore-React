@@ -1,0 +1,13 @@
+C:\Users\Charlie\source\repos\SistemaVentas\SistemaVentas\bin\Debug\netcoreapp3.1\SistemaVentas.exe
+C:\Users\Charlie\source\repos\SistemaVentas\SistemaVentas\bin\Debug\netcoreapp3.1\SistemaVentas.deps.json
+C:\Users\Charlie\source\repos\SistemaVentas\SistemaVentas\bin\Debug\netcoreapp3.1\SistemaVentas.runtimeconfig.json
+C:\Users\Charlie\source\repos\SistemaVentas\SistemaVentas\bin\Debug\netcoreapp3.1\SistemaVentas.runtimeconfig.dev.json
+C:\Users\Charlie\source\repos\SistemaVentas\SistemaVentas\bin\Debug\netcoreapp3.1\SistemaVentas.dll
+C:\Users\Charlie\source\repos\SistemaVentas\SistemaVentas\bin\Debug\netcoreapp3.1\SistemaVentas.pdb
+C:\Users\Charlie\source\repos\SistemaVentas\SistemaVentas\obj\Debug\netcoreapp3.1\SistemaVentas.csprojAssemblyReference.cache
+C:\Users\Charlie\source\repos\SistemaVentas\SistemaVentas\obj\Debug\netcoreapp3.1\SistemaVentas.AssemblyInfoInputs.cache
+C:\Users\Charlie\source\repos\SistemaVentas\SistemaVentas\obj\Debug\netcoreapp3.1\SistemaVentas.AssemblyInfo.cs
+C:\Users\Charlie\source\repos\SistemaVentas\SistemaVentas\obj\Debug\netcoreapp3.1\SistemaVentas.csproj.CoreCompileInputs.cache
+C:\Users\Charlie\source\repos\SistemaVentas\SistemaVentas\obj\Debug\netcoreapp3.1\SistemaVentas.dll
+C:\Users\Charlie\source\repos\SistemaVentas\SistemaVentas\obj\Debug\netcoreapp3.1\SistemaVentas.pdb
+C:\Users\Charlie\source\repos\SistemaVentas\SistemaVentas\obj\Debug\netcoreapp3.1\SistemaVentas.genruntimeconfig.cache

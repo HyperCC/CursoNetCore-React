@@ -1,0 +1,8 @@
+C:\Users\Charlie\source\repos\SistemaVentas\Seguridad\bin\Debug\netstandard2.0\Seguridad.deps.json
+C:\Users\Charlie\source\repos\SistemaVentas\Seguridad\bin\Debug\netstandard2.0\Seguridad.dll
+C:\Users\Charlie\source\repos\SistemaVentas\Seguridad\bin\Debug\netstandard2.0\Seguridad.pdb
+C:\Users\Charlie\source\repos\SistemaVentas\Seguridad\obj\Debug\netstandard2.0\Seguridad.AssemblyInfoInputs.cache
+C:\Users\Charlie\source\repos\SistemaVentas\Seguridad\obj\Debug\netstandard2.0\Seguridad.AssemblyInfo.cs
+C:\Users\Charlie\source\repos\SistemaVentas\Seguridad\obj\Debug\netstandard2.0\Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Charlie\source\repos\SistemaVentas\Seguridad\obj\Debug\netstandard2.0\Seguridad.dll
+C:\Users\Charlie\source\repos\SistemaVentas\Seguridad\obj\Debug\netstandard2.0\Seguridad.pdb

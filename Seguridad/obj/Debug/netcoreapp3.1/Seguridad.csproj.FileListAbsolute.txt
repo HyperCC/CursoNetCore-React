@@ -1,0 +1,16 @@
+C:\Users\Charlie\source\repos\SistemaVentas\Seguridad\bin\Debug\netcoreapp3.1\Seguridad.deps.json
+C:\Users\Charlie\source\repos\SistemaVentas\Seguridad\bin\Debug\netcoreapp3.1\Seguridad.dll
+C:\Users\Charlie\source\repos\SistemaVentas\Seguridad\bin\Debug\netcoreapp3.1\Seguridad.pdb
+C:\Users\Charlie\source\repos\SistemaVentas\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.csprojAssemblyReference.cache
+C:\Users\Charlie\source\repos\SistemaVentas\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.AssemblyInfoInputs.cache
+C:\Users\Charlie\source\repos\SistemaVentas\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.AssemblyInfo.cs
+C:\Users\Charlie\source\repos\SistemaVentas\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Charlie\source\repos\SistemaVentas\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.dll
+C:\Users\Charlie\source\repos\SistemaVentas\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.pdb
+C:\Users\Charlie\source\repos\SistemaVentas\Seguridad\bin\Debug\netcoreapp3.1\Aplicacion.dll
+C:\Users\Charlie\source\repos\SistemaVentas\Seguridad\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Charlie\source\repos\SistemaVentas\Seguridad\bin\Debug\netcoreapp3.1\Persistencia.dll
+C:\Users\Charlie\source\repos\SistemaVentas\Seguridad\bin\Debug\netcoreapp3.1\Aplicacion.pdb
+C:\Users\Charlie\source\repos\SistemaVentas\Seguridad\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Charlie\source\repos\SistemaVentas\Seguridad\bin\Debug\netcoreapp3.1\Persistencia.pdb
+C:\Users\Charlie\source\repos\SistemaVentas\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.csproj.CopyComplete
